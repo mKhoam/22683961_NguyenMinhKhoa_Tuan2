@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "outDir": "Tuan2/dist",
+    "rootDir": "./",
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
